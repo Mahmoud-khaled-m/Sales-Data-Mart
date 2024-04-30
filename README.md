@@ -1,1 +1,2 @@
+## Sales Data Mart
 This GitHub repository contains the documentation for a Sales Data Mart project. The project's goal is to create a data mart from the Adventure Works database, including fact tables for sales data and dimension tables for products, customers, time, and territories. This project is based on the dimensional modeling approach, and it includes data extraction, transformation, and loading (ETL) processes.

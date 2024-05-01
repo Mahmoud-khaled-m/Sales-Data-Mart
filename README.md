@@ -19,3 +19,7 @@ Represents time-related information such as date, month, quarter, and year.
 #Dim Territory: 
 Stores territory information with attributes like region, country, and state.
 ![image](https://github.com/Mahmoud-khaled-m/Sales-Data-Mart/assets/85359683/6fa1b0d0-fbe1-4d91-b025-0ea83e87030e)
+
+##ETL Process:
+1. Dim Product Design Extract product data from the source database. Transform and cleanse product attributes (e.g., name, category, subcategory). Load the Dim Product table.
+   ![image](https://github.com/Mahmoud-khaled-m/Sales-Data-Mart/assets/85359683/9926b77b-0ede-4e2f-914f-76bc7023fd16)

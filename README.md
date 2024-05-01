@@ -29,4 +29,7 @@ Stores territory information with attributes like region, country, and state.
    
 ![image](https://github.com/Mahmoud-khaled-m/Sales-Data-Mart/assets/85359683/ec7b520d-b882-47d9-8066-1817dd01c529)
 
+4. Dim Territory Design Extract territory data from the source database. Transform and cleanse territory attributes (e.g., region, country, state). Load the Dim Territory table.
 
+![image](https://github.com/Mahmoud-khaled-m/Sales-Data-Mart/assets/85359683/8c75e533-bc99-48d2-b40f-b9a8c670b574)
+ 

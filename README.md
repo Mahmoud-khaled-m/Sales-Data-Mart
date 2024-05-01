@@ -33,3 +33,9 @@ Stores territory information with attributes like region, country, and state.
 
 ![image](https://github.com/Mahmoud-khaled-m/Sales-Data-Mart/assets/85359683/8c75e533-bc99-48d2-b40f-b9a8c670b574)
  
+5. Finally: populate the fact table Fact Sales Design Extract sales-related data from the source database. Perform necessary transformations on the data (e.g., calculate measures, apply business rules). Ensure that foreign keys to dimension tables are appropriately mapped. Load the Fact Sales table with sales measures and dimension keys.
+
+   ![image](https://github.com/Mahmoud-khaled-m/Sales-Data-Mart/assets/85359683/55a3f45b-ed6e-4957-983d-33cd154e831d)
+
+
+

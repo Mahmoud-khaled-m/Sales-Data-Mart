@@ -25,7 +25,8 @@ Stores territory information with attributes like region, country, and state.
    ![image](https://github.com/Mahmoud-khaled-m/Sales-Data-Mart/assets/85359683/9926b77b-0ede-4e2f-914f-76bc7023fd16)
 2. Dim Customer Design Extract customer data from the source database. Apply Slowly Changing Dimension (SCD) processing to handle customer changes. Transform and cleanse customer attributes (e.g., name, address). Load the Dim Customer table.
    ![image](https://github.com/Mahmoud-khaled-m/Sales-Data-Mart/assets/85359683/76815e09-bd35-414b-89ee-cbc71703e008)
-3. Dim Date Design 
+3. Dim Date Design
+   
 ![image](https://github.com/Mahmoud-khaled-m/Sales-Data-Mart/assets/85359683/ec7b520d-b882-47d9-8066-1817dd01c529)
 
 
